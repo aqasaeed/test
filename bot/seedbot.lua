@@ -221,29 +221,19 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {146340607,156907037},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
-
+    about_text = [[SPARTACUS Robot Ver 3.7
+AntispamBot : @tele_sparta
+Our Channel : @sparta_antispam
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
+@blackhacker666 [Developer]
+@behisins_DANTE_died_wawx [1 S.t admin]
+@MaMadadmindark [2 S.t admin]
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+http://uupload.ir/files/mxct_tele_spartacus.jpg
 
-Our channels
-@teleseedch [English]
-@iranseed [persian]
 ]],
     help_text_realm = [[
 Realm Commands:
